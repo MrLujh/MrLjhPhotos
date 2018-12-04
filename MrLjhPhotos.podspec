@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name        = 'MrLjhPhotos'
-s.version     = '0.0.1'
+s.version     = '0.0.2'
 s.authors     = { 'MrLjh' => '287929070@qq.com' }
 s.homepage    = 'https://github.com/MrLujh/MrLjhPhotos'
 s.summary     = '获得相册图片'

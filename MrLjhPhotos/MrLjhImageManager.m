@@ -124,7 +124,8 @@
                 });
             }
         } else {
-            [resuleHandlers setValue:resultHandler forKey:asset.defaultRepresentation.filename];
+            
+           // [resuleHandlers setValue:resultHandler forKey:asset.defaultRepresentation.filename];
         }
     });
     
